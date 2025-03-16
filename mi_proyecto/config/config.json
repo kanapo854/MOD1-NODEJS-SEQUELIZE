@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "holamundo1",
+    "database": "mi_base",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "holamundo1",
+    "database": "mi_base_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "holamundo1",
+    "database": "mi_base_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
